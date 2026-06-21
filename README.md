@@ -29,3 +29,11 @@ I have fully reviewed the three required foundational video resources from the t
 * **Concept:** A minimalist app account creation layout.
 * **Design Strategy:** Applied clean vertical hierarchy, standardized form element boxes to 48px heights, and fixed icon alignment to maximize usability based on video feedback.
 ![Polished Sign-Up Iteration](dailyui-001.png.png)
+
+---
+
+#### Daily UI #002: Credit Card Checkout
+* **Concept:** A secure checkout form integrated into the initial application user flow.
+* **Design Strategy:** Applied consistent button accents, standardized text heights, and clean layout symmetry to lower user cognitive load during checkout.
+
+![Checkout Screen](payment.png)

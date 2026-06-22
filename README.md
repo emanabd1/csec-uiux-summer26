@@ -37,3 +37,19 @@ I have fully reviewed the three required foundational video resources from the t
 * **Design Strategy:** Applied consistent button accents, standardized text heights, and clean layout symmetry to lower user cognitive load during checkout.
 
 ![Checkout Screen](payment.png)
+
+---
+
+#### Daily UI #003: Landing Page
+* **Concept:** A minimalist mobile app landing page targeting tech students and developers.
+* **Design Strategy:** Leveraged strong visual typography hierarchy with a prominent primary CTA button, optimized whitespace, and added localized social proof to build instant user trust.
+
+![Landing Page Screen](dailyui-003.png)
+
+---
+
+#### Daily UI #004: Specialty Calculator
+* **Concept:** An academic GPA and goal forecasting calculator for the personalized student productivity app.
+* **Design Strategy:** Integrated established signature brand colors for key calculated metrics while maintaining design symmetry by utilizing identical input structures and aligned visual icons.
+
+![GPA Calculator Screen](dailyui-004.png)

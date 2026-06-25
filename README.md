@@ -54,3 +54,35 @@ I have fully reviewed the three required foundational video resources from the t
 
 
 ![GPA Calculator Screen](dailyui-004.png)
+
+
+
+
+### Daily UI #005
+# EMAN — Brand Identity & App Icon
+
+A premium, human-crafted brand icon designed for full-stack software development environments, combining fluid organic geometry with clean technical precision.
+
+## 🎨 Design Specifications
+
+| Element | Specification | Hex Code / Value |
+| :--- | :--- | :--- |
+| **Primary Brand Color** | Flat Ochre Gold | `#D5A660` *(approximate)* |
+| **Primary Background** | Deep Midnight Navy | `#162244` *(approximate)* |
+| **Outer Frame** | Slate Charcoal | `#333842` *(approximate)* |
+| **Typography** | All-Caps Sans-Serif | Tracking: `+20%` (Wide Spread) |
+
+## 🛠️ Layer Architecture & Effects
+
+1. **Monogram Vector (`e` + Leaf):**
+   * **Effect:** Drop Shadow
+   * **Settings:** `X: 0`, `Y: 4`, `Blur: 8`, `Opacity: 15%`, Color: `#000000`
+2. **Typography Layer ("EMAN"):**
+   * Symmetrical tracking applied for high-end baseline balance.
+3. **Canvas Geometry:**
+   * **Inner Frame:** Capsule pill format.
+   * **Outer Frame:** Symmetrical squircle container.
+
+## 🚀 Usage Guidelines
+* **Minimum Size:** 24x24px (Ensure shadow is disabled at micro-scales to retain vector clarity).
+* **Scaling:** Always lock aspect ratio to `1:1` when scaling the icon canvas.

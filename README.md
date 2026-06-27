@@ -28,7 +28,7 @@ I have fully reviewed the three required foundational video resources from the t
 #### Daily UI #001: Sign-Up Screen
 * **Concept:** A minimalist app account creation layout.
 * **Design Strategy:** Applied clean vertical hierarchy, standardized form element boxes to 48px heights, and fixed icon alignment to maximize usability based on video feedback.
-![Polished Sign-Up Iteration](dailyui-001.png.png)
+
 
 ---
 
@@ -36,7 +36,7 @@ I have fully reviewed the three required foundational video resources from the t
 * **Concept:** A secure checkout form integrated into the initial application user flow.
 * **Design Strategy:** Applied consistent button accents, standardized text heights, and clean layout symmetry to lower user cognitive load during checkout.
 
-![Checkout Screen](payment.png)
+
 
 ---
 
@@ -44,7 +44,7 @@ I have fully reviewed the three required foundational video resources from the t
 * **Concept:** A minimalist mobile app landing page targeting tech students and developers.
 * **Design Strategy:** Leveraged strong visual typography hierarchy with a prominent primary CTA button, optimized whitespace, and added localized social proof to build instant user trust.
 
-![Landing Page Screen](dailyui-003.png)
+
 
 ---
 
@@ -53,7 +53,7 @@ I have fully reviewed the three required foundational video resources from the t
 * **Design Strategy:** Integrated established signature brand colors for key calculated metrics while maintaining design symmetry by utilizing identical input structures and aligned visual icons.
 
 
-![GPA Calculator Screen](dailyui-004.png)
+
 
 
 
@@ -86,3 +86,42 @@ A premium, human-crafted brand icon designed for full-stack software development
 ## 🚀 Usage Guidelines
 * **Minimum Size:** 24x24px (Ensure shadow is disabled at micro-scales to retain vector clarity).
 * **Scaling:** Always lock aspect ratio to `1:1` when scaling the icon canvas.
+
+
+
+# Personal Portfolio Dashboard
+
+A premium, high-contrast desktop user profile dashboard designed for software engineers. This project features a custom-curated color palette, a structured multi-column layout, and modular component cards displaying professional summaries, technical stacks, and active platform profiles.
+
+## 🎨 Color Palette & UI Architecture
+
+This interface utilizes a sophisticated dark-themed system designed to balance modern tech aesthetics with high-impact readability:
+
+| UI Component | Assigned Color | Hex Code | Role |
+| :--- | :--- | :--- | :--- |
+| **Main Canvas Background** | Deep Base | `#210440` | Immersive midnight-purple background canvas |
+| **Sidebar Navigation** | Deep Base | `#210440` | Structural left-column pane framing core branding elements |
+| **Topbar / Banner** | Mid-tone Structure | `#E5958E` | Muted terracotta header layout anchoring profile data |
+| **Modular Content Cards** | Light Foreground Fill | `#FDB095` | Soft accent tone or container fill for textual content blocks |
+| **Interactive Assets / Typography** | High-Impact Accent | `#FFBA00` | Vibrant gold utilized for custom monograms, names, and buttons |
+
+---
+
+## 📂 Project Structure
+
+```text
+├── assets/
+│   ├── brand/
+│   │   ├── e-monogram.svg        # Custom gold "e" brand monogram
+│   │   └── full-signature.svg    # Gold and white typography header
+│   └── images/
+│       ├── profile-avatar.png    # Circular profile picture with gold border
+│       └── image_9ac58b.jpg      # Layout wireframe asset reference
+├── components/
+│   ├── Sidebar.jsx               # Left navigation frame with persistent links
+│   ├── Topbar.jsx                # Header block featuring search bar and action buttons
+│   └── Card.jsx                  # Reusable, responsive container grid components
+├── styles/
+│   └── globals.css               # Core CSS layout rules and variable mapping
+├── index.html                    # Root application entrance
+└── README.md                     # Project documentation

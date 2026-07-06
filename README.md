@@ -125,3 +125,48 @@ This interface utilizes a sophisticated dark-themed system designed to balance m
 │   └── globals.css               # Core CSS layout rules and variable mapping
 ├── index.html                    # Root application entrance
 └── README.md                     # Project documentation
+
+
+
+# Daily UI #007: Personalization & Integration Dashboard — UI/UX Design Specification
+
+A high-fidelity dashboard design concept engineered for the Daily UI #007 "Settings" challenge. This project explores dark-mode interface design, information architecture hierarchy, and tactile micro-interactions tailored for software engineers and competitive programmers.
+
+---
+
+## 🎨 Visual Design System
+
+### 1. Color Palette & Accessibility
+The interface utilizes a cohesive, cyberpunk-inspired deep purple palette. The color choices prioritize low luminosity to prevent eye strain during long-duration screen exposure, while ensuring a high contrast ratio for interactive elements.
+
+* **Primary Canvas (`#1b053a`):** A deep, saturated midnight purple used as the main content area background. It establishes an immersive environment softer than high-contrast pure black.
+* **Sidebar Navigation (`#15032d`):** A tier-darker purple variant that visually anchors the navigation menu, creating immediate structural depth.
+* **Brand Accent Gold (`#ffd615`):** Reserved exclusively for active selection states, crucial toggles, and primary call-to-action triggers to capture immediate visual attention.
+* **Element Orange (`#f07b65`):** Applied to secondary headings and category markers to balance the palette and establish clear line-item boundaries.
+* **Muted Lavender (`#a18bb5`):** Used for helper micro-copy and descriptions to signal non-interactive text.
+
+### 2. Typography & Hierarchical Scale
+The type scale is strictly controlled to ensure clean scannability, allowing users to differentiate between system headers, line items, and contextual subtext at a glance:
+
+* **Global Section Header:** `2.0rem` / Medium Weight — Immediate entry point confirmation.
+* **Setting Group Titles:** `1.4rem` / Medium Weight — Identifies major configuration categories.
+* **Component Labels:** `1.15rem` / Regular Weight — Names individual line-item settings.
+* **Explanatory Micro-copy:** `0.95rem` / Light Weight — Delivers inline system instructions.
+
+---
+
+## 🧭 Information Architecture & Layout Strategy
+
+### Master-Detail Split Layout
+The dashboard implements a dual-panel setup that aligns with the user's established mental model for complex configuration interfaces:
+* **Persistent Left Sidebar:** Houses global application modules (Personalization, API, Privacy). Standardized iconography paired with clean typography accelerates category recognition.
+* **Z-Pattern Content Flow:** Settings are stacked vertically on the right panel, encouraging a natural top-to-bottom reading gravity. Horizontal division rules cleanly isolate individual control groups to eliminate cognitive overload.
+* **Terminal Action Placement:** The primary "Save Changes" button is strategically anchored in the bottom-right corner. This respects standard user interaction flow, placing the final execution trigger exactly where the user's eye lands after completing form adjustments.
+
+---
+
+## ⚡ Interactive Component UX (Micro-interactions)
+
+* **Tactile Capsule Toggles:** The integration sync rows utilize custom slider capsules instead of standard native checkmarks. When an active sync matrix is engaged, the button knob shifts right and triggers a high-visibility gold state change, giving the user immediate reassurance that a connection is active.
+* **Segmented Button Controls:** Theme options (Light/Dark) are contained inside an inset pill frame, providing clear visual containment and clear selection boundaries.
+* **Contextual Input Fields:** Dropdowns and text triggers use distinct background styling variations to separate text readouts from button clicks seamlessly.

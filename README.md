@@ -170,3 +170,20 @@ The dashboard implements a dual-panel setup that aligns with the user's establis
 * **Tactile Capsule Toggles:** The integration sync rows utilize custom slider capsules instead of standard native checkmarks. When an active sync matrix is engaged, the button knob shifts right and triggers a high-visibility gold state change, giving the user immediate reassurance that a connection is active.
 * **Segmented Button Controls:** Theme options (Light/Dark) are contained inside an inset pill frame, providing clear visual containment and clear selection boundaries.
 * **Contextual Input Fields:** Dropdowns and text triggers use distinct background styling variations to separate text readouts from button clicks seamlessly.
+
+
+
+
+
+
+
+
+### 📌 Day 008 — 404 Page (Error State)
+*   **Concept:** A clean, brand-friendly error interface to gracefully guide lost users back to safety.
+*   **Key Features:** Highly visible call-to-action buttons for support routing, a fixed 844px standard mobile screen viewport layout with content clipping, and structured tab navigation centered around a deep purple canvas.
+
+---
+
+## 🧰 Tools & Technologies Used
+*   **Figma** — Interface blueprinting, layout architecture, and prototyping.
+*   **Auto Layout & Constraints** — Rigid responsive structural control.

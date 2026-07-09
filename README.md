@@ -251,3 +251,15 @@ The dashboard implements a dual-panel setup that aligns with the user's establis
 *   **Figma** — Interface blueprinting, layout architecture, and prototyping.
 *   **Auto Layout & Constraints** — Rigid responsive structural control.
 
+
+
+
+### 📌 Day 015 — On/Off Switch (Settings Screen)
+*   **Concept:** An advanced, dark-themed system configuration menu cleanly dividing active features using distinct interactive states.
+*   **Key Features:** Clear structural segmentation of settings categories, high-contrast custom gold toggle switches indicating active states, and a clean right-aligned alignment pattern optimizing mobile interaction lanes.
+
+---
+
+## 🧰 Tools & Technologies Used
+*   **Figma** — Interface blueprinting, layout architecture, and prototyping.
+*   **Auto Layout & Constraints** — Rigid responsive structural control.

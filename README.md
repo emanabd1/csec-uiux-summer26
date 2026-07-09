@@ -198,3 +198,15 @@ The dashboard implements a dual-panel setup that aligns with the user's establis
 ## 🧰 Tools & Technologies Used
 *   **Figma** — Interface blueprinting, layout architecture, and prototyping.
 *   **Auto Layout & Constraints** — Rigid responsive structural control.
+
+
+
+### 📌 Day 010 — Social Share Widget
+*   **Concept:** A developer-focused profiles and project sharing hub widget designed for platform-wide cross-linking.
+*   **Key Features:** Highly organized grid layout for key platform buttons (GitHub, LeetCode, Codeforces, LinkedIn), a highlighted media contribution display panel, and an accessible one-click custom repository link sharing input bar.
+
+---
+
+## 🧰 Tools & Technologies Used
+*   **Figma** — Interface blueprinting, layout architecture, and prototyping.
+*   **Auto Layout & Constraints** — Rigid responsive structural control.

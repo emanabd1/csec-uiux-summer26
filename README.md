@@ -239,3 +239,15 @@ The dashboard implements a dual-panel setup that aligns with the user's establis
 ## 🧰 Tools & Technologies Used
 *   **Figma** — Interface blueprinting, layout architecture, and prototyping.
 *   **Auto Layout & Constraints** — Rigid responsive structural control.
+
+
+### 📌 Day 014 — Countdown Timer
+*   **Concept:** A high-visibility event deadline tracking screen engineered around compact horizontal grid elements.
+*   **Key Features:** Horizontal inline time metrics layout for immediate scannability, responsive structural spacing, and a prominent call-to-action registration node tailored for time-sensitive competitive milestones.
+
+---
+
+## 🧰 Tools & Technologies Used
+*   **Figma** — Interface blueprinting, layout architecture, and prototyping.
+*   **Auto Layout & Constraints** — Rigid responsive structural control.
+

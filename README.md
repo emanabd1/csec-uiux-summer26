@@ -210,3 +210,9 @@ The dashboard implements a dual-panel setup that aligns with the user's establis
 ## 🧰 Tools & Technologies Used
 *   **Figma** — Interface blueprinting, layout architecture, and prototyping.
 *   **Auto Layout & Constraints** — Rigid responsive structural control.
+
+
+
+### 📌 Day 011 — Flash Messages / Notifications
+*   **Concept:** A live-updating pipeline and deployment log overview tracking real-time status updates for development tasks.
+*   **Key Features:** Visual status alerts (Success indicators, warning states), time-relative log tags, an active tab bar navigation panel, and a high-contrast action link button layout.

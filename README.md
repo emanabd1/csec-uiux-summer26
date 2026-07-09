@@ -125,7 +125,7 @@ This interface utilizes a sophisticated dark-themed system designed to balance m
 │   └── globals.css               # Core CSS layout rules and variable mapping
 ├── index.html                    # Root application entrance
 └── README.md                     # Project documentation
-
+```
 
 
 # Daily UI #007: Personalization & Integration Dashboard — UI/UX Design Specification
@@ -181,6 +181,17 @@ The dashboard implements a dual-panel setup that aligns with the user's establis
 ### 📌 Day 008 — 404 Page (Error State)
 *   **Concept:** A clean, brand-friendly error interface to gracefully guide lost users back to safety.
 *   **Key Features:** Highly visible call-to-action buttons for support routing, a fixed 844px standard mobile screen viewport layout with content clipping, and structured tab navigation centered around a deep purple canvas.
+
+---
+
+## 🧰 Tools & Technologies Used
+*   **Figma** — Interface blueprinting, layout architecture, and prototyping.
+*   **Auto Layout & Constraints** — Rigid responsive structural control.
+
+
+### 📌 Day 009 — Music Player Layout
+*   **Concept:** A dark-themed mobile music playback interface built for optimal accessibility and clean hierarchy.
+*   **Key Features:** Balanced horizontal media control navigation bar, distinct color-coded time tracking milestones, and scannable typographic stacks for song details.
 
 ---
 
